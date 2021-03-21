@@ -1,0 +1,12 @@
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\bin\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.deps.json
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\bin\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.runtimeconfig.json
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\bin\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.runtimeconfig.dev.json
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\bin\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.dll
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\bin\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.pdb
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\azure-service-bus-queues.csprojAssemblyReference.cache
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\azure-service-bus-queues.AssemblyInfoInputs.cache
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\azure-service-bus-queues.AssemblyInfo.cs
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\azure-service-bus-queues.csproj.CoreCompileInputs.cache
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.dll
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\Azure_Service_Bus_Lab.pdb
+C:\Users\azureuser\Desktop\azure-service-bus-queues\azure-service-bus-queues\obj\Debug\netcoreapp2.0\azure-service-bus-queues.genruntimeconfig.cache
